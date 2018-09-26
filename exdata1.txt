@@ -1,0 +1,12 @@
+A	B
+B	C
+C	D
+D	E
+E	F
+F	G
+P	Q
+Q	R
+R	S
+S	T
+Tom	Jerry
+Jerry	Tom
